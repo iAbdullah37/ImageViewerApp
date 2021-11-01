@@ -9,7 +9,11 @@
 
 ### screenshots
 - Single Mode
+
 ![screenshot1](screenshots/Screenshot1.png)
+
 - Multi Mode
+
 ![screenshot1](screenshots/Screenshot2.png)
+
 - slide show mode (cant show it right now because i didnt know how to take a gif screenshot xD)🙃
