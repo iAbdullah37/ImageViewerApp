@@ -1,0 +1,10 @@
+C:\Users\eslam\source\repos\ESLAM\ESLAM\bin\Debug\ESLAM.exe.config
+C:\Users\eslam\source\repos\ESLAM\ESLAM\bin\Debug\ESLAM.exe
+C:\Users\eslam\source\repos\ESLAM\ESLAM\bin\Debug\ESLAM.pdb
+C:\Users\eslam\source\repos\ESLAM\ESLAM\obj\Debug\ESLAM.csprojAssemblyReference.cache
+C:\Users\eslam\source\repos\ESLAM\ESLAM\obj\Debug\ESLAM.Form1.resources
+C:\Users\eslam\source\repos\ESLAM\ESLAM\obj\Debug\ESLAM.Properties.Resources.resources
+C:\Users\eslam\source\repos\ESLAM\ESLAM\obj\Debug\ESLAM.csproj.GenerateResource.cache
+C:\Users\eslam\source\repos\ESLAM\ESLAM\obj\Debug\ESLAM.csproj.CoreCompileInputs.cache
+C:\Users\eslam\source\repos\ESLAM\ESLAM\obj\Debug\ESLAM.exe
+C:\Users\eslam\source\repos\ESLAM\ESLAM\obj\Debug\ESLAM.pdb
